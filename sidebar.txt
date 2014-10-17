@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[juy:home|Door43 (juy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-juy|d43-juy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-juy/archive/master.zip|d43-juy.zip]]
+
+**Recent Changes**
+{{changes>ns = juy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/juy|Ethnologue data]]
+
